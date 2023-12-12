@@ -8,7 +8,7 @@
   </url>
   <!-- 添加其他页面的URL -->
   <url>
-    <loc>https://gptzero.tools/about</loc>
+    <loc>https://gptzero.tools/about.html</loc>
     <lastmod>2022-10-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
